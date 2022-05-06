@@ -11,4 +11,4 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 I'll meet you over there, can't wait to get started!
 
 This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
-!(https://github-readme-stats.vercel.app/api?username=umarlateef&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/umarlateef/github-readme-stats))
+![Git Stats](https://github-readme-stats.vercel.app/api?username=umarlateef&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/umarlateef/github-readme-stats))
